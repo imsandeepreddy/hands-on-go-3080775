@@ -3,7 +3,7 @@ package main
 
 func main() {
 	// handle any panics that might occur anywhere in this function
-	//
+	// ok
 
 	// use os package to read the file specified as a command line argument
 	//
